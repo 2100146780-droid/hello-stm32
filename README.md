@@ -1,6 +1,6 @@
 # hello-stm32
 
-我的第一个 Git 练习仓库，用来走通「本地编写 → add → commit → push → GitHub」的完整流程。
+我的第一个 Git 练习仓库，用来走通「本地编写 → add → commit → push → GitHub」的完整流程
 
 之后会在这个仓库里放 STM32 入门代码：点灯、按键消抖、串口打印。
 
