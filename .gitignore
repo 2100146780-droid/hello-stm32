@@ -6,6 +6,7 @@
 *.bin
 *.map
 *.axf
+*.exe
 *.lst
 build/
 Debug/
