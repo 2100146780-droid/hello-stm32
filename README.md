@@ -22,6 +22,7 @@ hello-stm32/
 ├── notes/             学习笔记
 ├── STM32F103C8T6引脚定义-江协科技.png   引脚图速查
 └── src/               全部代码
+    ├── README.md      ★ 逐工程代码说明与问题分析（先看这个）
     ├── hello.c        C 语言入门练习
     ├── 1_project_temple/  工程模板
     ├── 2_led/             点亮 LED
@@ -46,3 +47,7 @@ hello-stm32/
 - 2026-11-07 第一次自己动手提交，搞懂了 add / commit / push 的区别。
 - 2026-11-07 移入了之前的代码
 
+
+## 代码说明
+
+每个工程在练习什么、关键代码在哪、有哪些可以改进的地方，都整理在 👉 [src/README.md](src/README.md)
