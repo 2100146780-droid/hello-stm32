@@ -26,6 +26,11 @@ RTE/
 .cproject
 .project
 
+# Python 环境（部分工程目录里误带的 conda 环境，非代码）
+.conda/
+__pycache__/
+*.pyc
+
 # 系统与编辑器垃圾
 Thumbs.db
 desktop.ini
