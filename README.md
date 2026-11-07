@@ -51,3 +51,7 @@ hello-stm32/
 ## 代码说明
 
 每个工程在练习什么、关键代码在哪、有哪些可以改进的地方，都整理在 👉 [src/README.md](src/README.md)
+
+## 代码说明
+
+每个工程在练习什么、关键代码在哪、有哪些可以改进的地方，都整理在 👉 [src/README.md](src/README.md)
